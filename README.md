@@ -6,9 +6,20 @@
 	<br>
 </div>
 
-# Facebook Bruteforce
+# Facebook Multi Bruteforce
+> Login With Token
+> Fast Crack
+> Many Password Combinations To Crack
+
+# Fitur
+- Crack From Friend List
+- Dump ID & Email 
+- Crack From Likes ( Copy ID Post )
+- Crack From Followers ( Copy ID Account )
+> tools will continue to be updated, get update notifications by searching for me on my social media.
 
 ## Install
+```
 - pkg update && pkg upgrade
 - git clone https://github.com/kagurazaga/nslvd
 - cd nslvd
@@ -16,6 +27,7 @@
 - pip2 install mechanize
 - pip install requests bs4
 - python2 menu.py
+```
 
 #### Find Me On Social Media !
 
