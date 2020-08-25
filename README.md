@@ -10,8 +10,8 @@
 
 ## Install
 - pkg update && pkg upgrade
-- git clone https://github.com/kagurazaga/
-- cd
+- git clone https://github.com/kagurazaga/nslvd
+- cd nslvd
 - pip2 install requests
 - pip2 install mechanize
 - pip install requests bs4
