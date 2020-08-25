@@ -13,9 +13,10 @@
 
 # Fitur
 - Crack From Friend List
+- Crack From Friend List Publick Account <br> Get ID Account>
 - Dump ID & Email 
-- Crack From Likes ( Copy ID Post )
-- Crack From Followers ( Copy ID Account )
+- Crack From Likes <br>( Get ID Post )
+- Crack From Followers <be>( Get ID Account )
 > tools will continue to be updated, get update notifications by searching for me on my social media.
 
 ## Install
