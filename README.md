@@ -26,6 +26,7 @@
 - cd nslvd
 - pip2 install requests
 - pip2 install mechanize
+- pip2 install nodejs
 - pip install requests bs4
 - python2 menu.py
 ```
