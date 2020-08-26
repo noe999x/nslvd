@@ -8,15 +8,15 @@
 
 # Facebook Multi Bruteforce
 > Login With Token
-> Fast Crack
+> Fast Crack<br>
 > Many Password Combinations To Crack
 
 # Fitur
 - Crack From Friend List
 - Crack From Friend List Public Account <br>( Get ID Account )
-- Dump ID & Email 
 - Crack From Likes <br>( Get ID Post )
-- Crack From Followers <br>( Get ID Account )
+- Crack From Followers Account<br>( Get ID Account )
+- Dump ID & Email
 > tools will continue to be updated, get update notifications by searching for me on my social media.
 
 ## Install
