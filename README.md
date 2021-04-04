@@ -27,8 +27,9 @@
 - pip2 install requests
 - pip2 install mechanize
 - pip2 install nodejs
-- pip install requests bs4
+- cd nslvd
 - python2 menu.py
+( Command 2 Untuk Login, Command 1 Untuk mulai tools )
 ```
 
 #### Find Me On Social Media !
