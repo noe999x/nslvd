@@ -1,8 +1,7 @@
 <div align="center">
-	<br>
-	<a href="https://github.com/kagurazaga/nsaaup/blame/master/.ns.svg">
-		<img src=".ns.svg" width="800" height="400">
-	</a>
+<h1>• nslvd •</h1>
+	<img src="https://media.tenor.com/tHrhZhnbhVEAAAAC/nancy-momoland.gif" alt="mommy"/>
+</p>
 	<br>
 </div>
 
